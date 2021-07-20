@@ -1,198 +1,146 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Saurav Newsletter</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<style>
+body {
+	font-family: 'Varela Round', sans-serif;
+}	
+.modal-newsletter {	
+	color: #999;
+	font-size: 15px;
+  	min-width: 600px;
+}
+.modal-newsletter .modal-content {
+	padding: 40px;
+	border-radius: 0;		
+	border: none;
+}
+.modal-newsletter .modal-header {
+	border-bottom: none;   
+	position: relative;
+	text-align: center;
+	border-radius: 5px 5px 0 0;
+}
+.modal-newsletter h4 {
+	color: #000;
+	text-align: center;
+	font-size: 30px;
+	margin: 0 0 25px;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+.modal-newsletter .close {
+	background: #c0c3c8;
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #fff;
+    text-shadow: none;
+    opacity: 0.5;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    font-size: 19px;
+    text-align: center;
+    padding: 0;
+}
+.modal-newsletter .close span {
+	position: relative;
+	top: -1px;
+}
+.modal-newsletter .close:hover {
+	opacity: 0.8;
+}
+.modal-newsletter .icon-box {
+	color: #7265ea;		
+	display: inline-block;
+	z-index: 9;
+	text-align: center;
+	position: relative;
+	margin-bottom: 10px;
+}
+.modal-newsletter .icon-box i {
+	font-size: 110px;
+}
+.modal-newsletter .form-control, .modal-newsletter .btn {
+	min-height: 46px;
+	border-radius: 3px; 
+}
+.modal-newsletter .form-control {
+	box-shadow: none;
+	border-color: #dbdbdb;
+}
+.modal-newsletter .form-control:focus {
+	border-color: #7265ea;
+	box-shadow: 0 0 8px rgba(114, 101, 234, 0.5);
+}
+.modal-newsletter .btn {
+	color: #fff;
+	border-radius: 4px;
+	background: #7265ea;
+	text-decoration: none;
+	transition: all 0.4s;
+	line-height: normal;
+	padding: 6px 20px;
+	min-width: 150px;
+	border: none;
+}
+.modal-newsletter .btn:hover, .modal-newsletter .btn:focus {
+	background: #4e3de4;
+	outline: none;
+}
+.modal-newsletter .input-group {
+	margin: 30px 0 15px;
+}
+.hint-text {
+	margin: 100px auto;
+	text-align: center;
+}
+</style>
+<script>
+$(document).ready(function(){
+	$("#myModal").modal('show');
+});
+</script>
+</head>
+<body>
+<div id="myModal" class="modal fade">
+	<div class="modal-dialog modal-newsletter">
+		<div class="modal-content">
+			<form action="/" method="POST ">
+				<div class="modal-header">
+					<div class="icon-box mx-auto">						
+						<i class="fa fa-envelope-open-o"></i>
+					</div>
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span>&times;</span></button>
+				</div>
+				<div class="modal-body text-center">
+					<h4>Subscribe to Saurav's newsletter</h4>	
+					<p>Join my subscribers list to get the latest news, updates and special offers delivered directly in your inbox.</p>
+					<div class=" form-group  justify-content-center">
+                        <input name="fName" type="text" class="form-control w-50 mb-2" placeholder="First Name" required>
+						<input name="lName" type="text" class="form-control w-50 mb-2" placeholder="Last Name" required>
+						<input name="email" type="email" class="form-control w-75 mb-2" placeholder="Enter your email" required>
+						<div class="input-group-append">
+							<input type="submit" class="btn btn-primary" value="Subscribe">
+						</div>
+					</div>
+				</div>
+			</form>			
+		</div>
+	</div>
+</div>
+<p class="hint-text"><strong>Note:</strong> Please refresh the page or run the code to reload the modal.</p>
+</body>
+</html>
