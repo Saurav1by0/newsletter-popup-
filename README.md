@@ -1,5 +1,5 @@
 <code>**Saurav Gaur**
-Markup :  # Screenshot#
+ # Screenshot#
   ![Alt text](popup.PNG?raw=true "Optional Title")
   
 - [GitHub](https://github.com/Saurav1by0 "Saurav Gaur")
